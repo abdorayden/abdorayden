@@ -1,19 +1,16 @@
-# Rayden's Programming and Security Ideas
+# 💫 About Me:
+❤️🧑🏽‍💻Programming enthusiast<br>❤️🔐Security enthusiast<br>⚡😼Active GitHub user<br>⚡📚Always eager to learn and improve
 
-Hello, I'm Rayden! (my nick name) I'm passionate about programming and security. I enjoy learning new programming languages, frameworks, and tools to improve my skills and knowledge. I also have a strong interest in security and enjoy staying up-to-date on the latest security threats and best practices.
 
-This repository is a place for me to store and share my personal projects and ideas. You are welcome to browse the repository and use any of the code or resources you find here. However, please note that this repository is not actively maintained and may contain outdated or incomplete code.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdenour Souane) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdorayden)
 
-If you have any questions or would like to collaborate on a project, please don't hesitate to reach out to me. You can find me on GitHub or other social media platforms.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abdorayden&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abdorayden&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdorayden&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## About Me
-
-* Programming enthusiast
-* Security enthusiast
-* Active GitHub user
-* Always eager to learn and improve
-
-## Contact Me
-
-* GitHub: [@abdorayden](http://github.com/abdorayden)
-* Gmail: abdenoursouane025@gmail.com
+---
+[![](https://visitcount.itsvg.in/api?id=abdorayden&icon=2&color=0)](https://visitcount.itsvg.in)
