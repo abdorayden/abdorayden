@@ -1,10 +1,6 @@
 # 💫 About Me:
 ❤️🧑🏽‍💻Programming enthusiast<br>❤️🔐Security enthusiast<br>⚡😼Active GitHub user<br>⚡📚Always eager to learn and improve
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdenour Souane) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdorayden)
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 # 📊 GitHub Stats:
